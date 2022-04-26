@@ -1,4 +1,4 @@
-git+https://github.com/yt-dlp/yt-dlp@master
+git+https://github.com/bhumiharsaurabh/yt-dl.git@master
 pyrogram==1.4.16
 TgCrypto
 py-tgcalls==0.8.1
