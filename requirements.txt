@@ -1,5 +1,5 @@
 git+https://github.com/bhumiharsaurabh/yt-dl@master
-pyrogram==1.4.16
+pyrogram==2.0.16
 TgCrypto
 py-tgcalls==0.8.1
 python-dotenv
